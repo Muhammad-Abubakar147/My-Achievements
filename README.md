@@ -30,3 +30,8 @@ I am Muhammad Abubakar, a passionate learner and developer with skills in:
 
 This repository serves as a central collection of my achievements, certifications, awards, participation certificates, badges, and professional milestones.
 
+Here, I will continuously update and maintain records of:
+
+- 🎓 Certifications
+- 🏅 Competition Participations
+- 🏆 Awards & Recognitions
