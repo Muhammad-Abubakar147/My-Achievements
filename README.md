@@ -13,4 +13,16 @@ I am Muhammad Abubakar, a passionate learner and developer with skills in:
 - Data Science
 - Git & GitHub
 
+### Libraries & Tools
+
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- VS Code
+- Jupyter Notebook
+- Google Colab
+- PyCharm
+- Figma
+- Canva
 
