@@ -26,3 +26,7 @@ I am Muhammad Abubakar, a passionate learner and developer with skills in:
 - Figma
 - Canva
 
+## 📌 Repository Purpose
+
+This repository serves as a central collection of my achievements, certifications, awards, participation certificates, badges, and professional milestones.
+
