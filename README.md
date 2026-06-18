@@ -11,7 +11,7 @@ I am Muhammad Abubakar, a passionate learner and developer with skills in:
 - Machine Learning
 - Deep Learning
 - Data Science
-- Git & GitHub
+- Git & GitHub 
 
 ### Libraries & Tools
 
