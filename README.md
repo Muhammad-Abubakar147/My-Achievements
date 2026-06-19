@@ -6,7 +6,7 @@ Welcome to my achievements repository! This repository showcases my certificatio
 
 I am Muhammad Abubakar, a passionate learner and developer with skills in:
 
-- Python
+- Python 
 - HTML & CSS
 - Machine Learning
 - Deep Learning
